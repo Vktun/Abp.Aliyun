@@ -1,6 +1,6 @@
 namespace EasyAbp.Abp.Aliyun.Common.Model
 {
-    public abstract class CommonResponse : ICommonResponse
+    public  class CommonResponse : ICommonResponse
     {
         /// <summary>
         /// 请求 ID。
